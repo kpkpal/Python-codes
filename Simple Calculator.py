@@ -4,7 +4,6 @@ Created on Sun Mar 24 13:28:10 2019
 
 @author: KPK
 """
-
 ''' My Simple calculator program: '''
 
 def loop():
