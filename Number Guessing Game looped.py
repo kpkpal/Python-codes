@@ -32,10 +32,10 @@ while 1:
                 
             if guess != number:
                 print("Please try Again: ")
-                tries +=1
+                tries+=1
             
             if guess == number:
-                print ("\nYou got it right, Great! \nThe number I guessed was",'"', str(int(number)),'"', '\n'"Your total No of tries: ", str(int(tries)))
+                print("\nYou got it right, Great! \nThe number I guessed was",'"', str(int(number)),'"', '\n'"Your total No of tries: ", str(int(tries)))
                 break
             
             
